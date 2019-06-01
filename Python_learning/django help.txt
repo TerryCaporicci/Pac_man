@@ -1,0 +1,7 @@
+avant de lancer pour la premier fois une fonctionalité django dans le terminal utiliser cette commande : source ~/.virtualenvs/djangodev/bin/activate
+
+commande pour lancer le serveur (lancer a la racine du projet) : python manage.py runserver
+
+gestion des chemin, fichier views.py + urls.py (dans Pac_man, allez voir urls.py dans pac_man python pour plus d'option dans les url)
+
+crée un admin : python manage.py runserver
